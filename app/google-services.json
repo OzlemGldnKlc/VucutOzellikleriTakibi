@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044503327322",
+    "firebase_url": "https://gykuygulama-38a6e.firebaseio.com",
+    "project_id": "gykuygulama-38a6e",
+    "storage_bucket": "gykuygulama-38a6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044503327322:android:67a520911add0123",
+        "android_client_info": {
+          "package_name": "com.example.vucutolcumlerim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044503327322-e8oah6ubjurrtd98m0m0vrsb4tols2d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vucutolcumlerim",
+            "certificate_hash": "7137dac6db7b09aaa47e9e69dc8436c450bdb59a"
+          }
+        },
+        {
+          "client_id": "1044503327322-naja217ihekj6j8h9mnj9i3r955u6bli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1mMviGMaPr1_YoUct7nUn46GcI-otMGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044503327322-naja217ihekj6j8h9mnj9i3r955u6bli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

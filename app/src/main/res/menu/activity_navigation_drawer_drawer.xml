@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_KiloOranlari"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/nav_KiloOranlari" />
+        <item
+            android:id="@+id/nav_YagOranlari"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/nav_YagOranlari" />
+        <item
+            android:id="@+id/nav_KasOranlari"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/nav_KasOranlari" />
+        <item
+            android:id="@+id/nav_SuOranlari"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/nav_SuOranlari" />
+
+    </group>
+
+    <item android:title="Paylaş">
+        <menu>
+            <item
+                android:id="@+id/nav_FacebooktaPaylas"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/nav_FacebooktaPaylas" />
+            <item
+                android:id="@+id/nav_Twiter"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/nav_Twiter" />
+
+            <item
+                android:id="@+id/nav_lnkdn"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/nav_lnkdn" />
+        </menu>
+    </item>
+
+    <item android:title="İletişim">
+
+        <menu>
+            <item
+                android:id="@+id/nav_mail"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/nav_mail" />
+            <item
+                android:id="@+id/nav_tlfn"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/nav_tlfn" />
+
+
+        </menu>
+    </item>
+
+</menu>
+
